@@ -21,3 +21,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevanMehta&show_icons=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevanMehta)](https://github.com/KevanMehta)
